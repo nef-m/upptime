@@ -4,17 +4,17 @@
     "url": "https://ver.nefta.vision",
     "icon": "https://icons.duckduckgo.com/ip3/ver.nefta.vision.ico",
     "slug": "ver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 473,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "time": 461,
+    "timeDay": 585,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   }
 ]
