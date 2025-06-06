@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ver.nefta.vision.ico",
     "slug": "ver",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 572,
-    "timeDay": 650,
-    "timeWeek": 572,
-    "timeMonth": 572,
-    "timeYear": 572,
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 582,
+    "timeDay": 628,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-06-05": 9,
       "2025-05-31": 24
     }
   }
